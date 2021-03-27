@@ -1,0 +1,13 @@
+4
+Vergun
+1
+43
+Kosa
+1
+2
+Kish
+1
+50
+Rolia
+1
+5
